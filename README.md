@@ -1,2 +1,1 @@
-# The-first-one
-My repository
+This repository is for Capstone coursera project only :)
